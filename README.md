@@ -28,6 +28,12 @@ Mobile App (React Native)
 Mobile App (Flutter)
 Web (Next.js)
 
+- Project experience
+Mobile Game (Unity)
+Mobile App (React Native, Flutter)
+Server (Node.js)
+DB (Firebase)
+
 - 💬 Ask me about ...
 Mobile App, Game or Web front-end & back-end side Anything
 UX/CX/PX improvement
